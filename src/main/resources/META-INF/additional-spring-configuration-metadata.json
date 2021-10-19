@@ -1,0 +1,19 @@
+{
+	"properties": [
+		{
+			"name": "templateconfig.templatelocation",
+			"type": "java.lang.String",
+			"description": "A description for 'templateconfig.templatelocation'"
+		},
+		{
+			"name": "templateconfig.defaultencoding",
+			"type": "java.lang.String",
+			"description": "A description for 'templateconfig.defaultencoding'"
+		},
+		{
+			"name": "templateconfig.autoflush",
+			"type": "java.lang.Boolean",
+			"description": "A description for 'templateconfig.autoflush'"
+		}
+	]
+}
